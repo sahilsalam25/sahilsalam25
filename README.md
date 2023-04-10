@@ -46,7 +46,7 @@
 interesting discussion.\
 ✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at sahilsalamece25@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my
-[Résumé](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/Zakaurrahman.pdf) for more details about me. I'm open
+[Résumé](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/SAHIL_SALAM.ECE.pdf) for more details about me. I'm open
 to feedback and suggestions!
 
 <!-- ###*************** Social media information*******************### -->
