@@ -20,20 +20,20 @@
 <!-- ###*************** Github Profile View count*******************### -->
 
 <p align="left"> <img
-                src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
-                alt="zakaur-rahman" /> </p>
+                src="https://komarev.com/ghpvc/?username=sahilsalam25&label=Profile%20views&color=0e75b6&style=flat"
+                alt="sahilsalam25" /> </p>
 
 <!-- ###*************** Github Trophy*******************### -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                        src="https://github-profile-trophy.vercel.app/?username=zakaur-rahman" alt="zakaur-rahman"
+                        src="https://github-profile-trophy.vercel.app/?username=sahilsalam25" alt="sahilsalam25"
                         width="575" /></a> </p>
 
-<!-- ###*************** Tweeter follow Count*******************### -->
+<!-- ###*************** Tweeter follow Count*******************### 
 
 <p align="left"> <a href="https://twitter.com/zakaurrahman67" target="blank"><img
                         src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
-                        alt="zakaurrahman67" /></a> </p>
+                        alt="zakaurrahman67" /></a> </p> -->
  <!-- ###********************** About Me************************### -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -58,7 +58,7 @@ to feedback and suggestions!
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                         alt="zakaurrahman67" height="30" width="40" /></a>
 <!-- ###*************** Linkedin Profile*******************### -->
-        <a href="https://linkedin.com/in/zakaur-rahman" target="blank"><img align="center"
+        <a href="(https://www.linkedin.com/in/sahil-salam-1346ab228/)" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="zakaur-rahman" height="30" width="40" /></a>
 <!-- ###*************** Facebook Profile*******************### -->
