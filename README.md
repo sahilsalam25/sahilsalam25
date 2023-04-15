@@ -14,7 +14,7 @@
 <!-- ###*************** Gif Typing Image*******************### -->
 
 <img align="right" alt="Falc0n Coding" width="250"
-        src="https://raw.githubusercontent.com/sahilsalam25/sahilsalam25/master/assets/sahilsalam25.gif"
+        src="https://raw.githubusercontent.com/sahilsalam25/sahilsalam25/master/assets/zakaur-rahman.gif"
         align="right" />
 
 <!-- ###*************** Github Profile View count*******************### -->
