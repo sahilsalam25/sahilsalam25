@@ -58,15 +58,15 @@ to feedback and suggestions!
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                         alt="zakaurrahman67" height="30" width="40" /></a> -->
 <!-- ###*************** Linkedin Profile*******************### -->
-        <a href="https://www.linkedin.com/in/sahil-salam-1346ab228/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/sahil-salam-1346ab228/" target="_blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="zakaur-rahman" height="30" width="40" /></a>
 <!-- ###*************** Facebook Profile*******************### -->
-        <a href="https://www.facebook.com/profile.php?id=100008483163929" target="blank"><img align="center"
+        <a href="https://www.facebook.com/profile.php?id=100008483163929" target="_blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="ifalc0n67" height="30" width="40" /></a>
+                        alt="Šāhíľ Śâľām" height="30" width="40" /></a>
  <!-- ###*************** Instagram Profile*******************### -->
-        <a href="https://www.instagram.com/sahil__salam780__" target="blank"><img align="center"
+        <a href="https://www.instagram.com/sahil__salam780__" target="_blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="sahil__salam780__" height="30" width="40" /></a>
 </p>
