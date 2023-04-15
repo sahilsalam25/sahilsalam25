@@ -153,7 +153,7 @@ to feedback and suggestions!
                 src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsalam25&show_icons=true&theme=radical"
                 alt="sahilsalam25" /></p>
 
-<!-- ###*************** Top Repositories*******************### -->
+<!-- ###*************** Top Repositories of github*******************### -->
 
 #### Top Repositories
 
