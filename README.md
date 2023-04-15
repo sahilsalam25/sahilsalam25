@@ -66,7 +66,7 @@ to feedback and suggestions!
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="ifalc0n67" height="30" width="40" /></a>
  <!-- ###*************** Instagram Profile*******************### -->
-        <a href="(https://www.instagram.com/sahil__salam780__/)" target="blank"><img align="center"
+        <a href="https://www.instagram.com/sahil__salam780__" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="sahil__salam780__" height="30" width="40" /></a>
 </p>
