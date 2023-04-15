@@ -1,6 +1,6 @@
   <!-- ###*************** Banner Image*******************### -->
 
-![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/falcg.jpg)
+![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/SAHILSALAM_GITHUB.jpg)
 
 <!-- ###*************** Hand Wave GIF*******************### -->
 
