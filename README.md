@@ -1,6 +1,6 @@
   <!-- ###*************** Banner Image*******************### -->
 
-![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/falcg.jpg)
+![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/falcg.jpg)
 
 <!-- ###*************** Hand Wave GIF*******************### -->
 
@@ -14,7 +14,7 @@
 <!-- ###*************** Gif Typing Image*******************### -->
 
 <img align="right" alt="Falc0n Coding" width="250"
-        src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif"
+        src="https://raw.githubusercontent.com/sahilsalam25/sahilsalam25/master/assets/sahilsalam25.gif"
         align="right" />
 
 <!-- ###*************** Github Profile View count*******************### -->
@@ -138,42 +138,42 @@ to feedback and suggestions!
 <!-- ###*************** Most used Language *******************### -->
 
 <p><img align="left" 
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaur-rahman&show_icons=true&theme=radical&locale=en" 
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsalam25&show_icons=true&theme=radical&locale=en" 
                 alt="sahil-salam" /></p>
                 <!-- &layout=compact -->
 <!-- ###*************** GitHub Stats*******************### -->
 
 <p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=zakaur-rahman&show_icons=true&theme=radical&locale=en"
-                alt="zakaur-rahman" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=sahilsalam25&show_icons=true&theme=radical&locale=en"
+                alt="sahilsalam25" /></p>
 
 <!-- ###*************** GitHub Contribution & Streak Stats*******************### -->
 
 <p><img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=zakaur-rahman&show_icons=true&theme=radical"
-                alt="zakaur-rahman" /></p>
+                src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsalam25&show_icons=true&theme=radical"
+                alt="sahilsalam25" /></p>
 
 <!-- ###*************** Top Repositories*******************### -->
 
 #### Top Repositories
 
-<a href="https://github.com/zakaur-rahman/zakaur-rahman.github.io">
+<a href="https://github.com/sahilsalam25/sahilsalam25.github.io">
         <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman.github.io&theme=buefy" />
+                src="https://github-readme-stats.vercel.app/api/pin/?username=sahilsalam25&repo=sahilsalam25.github.io&theme=buefy" />
 </a>
-<a href="https://github.com/zakaur-rahman/zakaur-rahman">
+<a href="https://github.com/sahilsalam25/sahilsalam25">
         <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman&theme=buefy" />
+                src="https://github-readme-stats.vercel.app/api/pin/?username=sahilsalam25&repo=sahilsalam25&theme=buefy" />
 </a>
 
 <!-- ###*************** WakaTime Which Shows How much time spend in coding*******************###
 
 <br />
- <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/wakatime_weekly_project_stats.svg"
-        alt="Zakaur Rahman's WakaTime Activity" /> 
+ <img src="https://github.com/sahilsalam25/sahilsalam25/blob/master/images/wakatime_weekly_project_stats.svg"
+        alt="sahilsalam25's WakaTime Activity" /> 
         
-   <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/wakatime_weekly_language_stats.svg"
-        alt="Zakaur Rahman's WakaTime Activity" />  -->       
+   <img src="https://github.com/sahilsalam25/sahilsalam25/blob/master/images/wakatime_weekly_language_stats.svg"
+        alt="sahilsalam25's WakaTime Activity" />  -->       
         
 <a style="default" href="https://wakatime.com/@7853b2c9-28b7-4756-aae6-e85c52f839fa"><img
                 src="https://wakatime.com/badge/user/7853b2c9-28b7-4756-aae6-e85c52f839fa.svg"
