@@ -1,6 +1,6 @@
   <!-- ###*************** Banner Image*******************### -->
 
-![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/assets/assets/assets/SAHILSALAM_GITHUB_1.jpg)
+![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/assets/assets/SAHILSALAM_GITHUB_1.jpg)
 
 
 
