@@ -1,7 +1,7 @@
   <!-- ###*************** Banner Image*******************### -->
 
 ![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/assets/assets/SAHILSALAM_GITHUB_1.jpg)
-<img src="./asset/assets/SAHILSALAM_GITHUB_1.jpg" width='50'>
+
 
 
 <!-- ###*************** Hand Wave GIF*******************### -->
@@ -40,13 +40,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Electronics and Communication Engineering at the Shridevi Institute of Engineering and Technology.\
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm on track for learning more about MERN, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I pursue Photography and Editing as hobbies/side hustles.\
+💡 &nbsp;&nbsp;&nbsp;&nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;&nbsp;&nbsp;&nbsp; I have recently completed a B.E in Electronics and Communication  at the Shridevi Institute of Engineering and Technology.\
+🌱 &nbsp;&nbsp;&nbsp;&nbsp; I'm on track for learning more about MERN, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I Learn about New Frameworks and Libraries as hobbies/side hustles.\
 💬 &nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some
 interesting discussion.\
-✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at sahilsalamece25@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at sahilsalam780@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my
 [Résumé](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/SAHIL_SALAM.ECE.pdf) for more details about me. I'm open
 to feedback and suggestions!
