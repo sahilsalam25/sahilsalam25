@@ -41,6 +41,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;&nbsp;&nbsp;&nbsp; I'm a web developer with a passion for creating interactive, engaging and responsive websites.
+
 💡 &nbsp;&nbsp;&nbsp;&nbsp; I like to explore new technologies and develop responsive web App.\
 🎓 &nbsp;&nbsp;&nbsp;&nbsp; I have recently completed a B.E in Electronics and Communication  from Visvesvaraya Technological University.\
 🌱 &nbsp;&nbsp;&nbsp;&nbsp; I'm on track for learning more about MERN, Systems Design, and Cloud Architecture.\
