@@ -4,12 +4,12 @@
 
 <!-- ###*************** Hand Wave GIF*******************### -->
 
-<img alt="Falc0n Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" />
+<img alt="Sahil Salam" src="./assets/Hand%20Wave.gif" width='40' align="left" />
 <h2>Hey there! I'm Sahil Salam</h2>
 
 <!-- ###*************** General Quote*******************### -->
 
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 
 <!-- ###*************** Gif Typing Image*******************### -->
 
