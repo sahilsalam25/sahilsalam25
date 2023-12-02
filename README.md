@@ -1,6 +1,6 @@
   <!-- ###*************** Banner Image*******************### -->
 
-![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/assets/SAHIL SALAM_LINKDIN_COVER_IMG.png)
+![Banner](https://github.com/sahilsalam25/sahilsalam25/blob/master/assets/assets/assets/SAHILSALAM_GITHUB_1.jpg)
 
 
 <!-- ###*************** Hand Wave GIF*******************### -->
